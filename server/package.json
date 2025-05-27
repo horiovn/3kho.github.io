@@ -8,6 +8,10 @@
   "description": "3kh0.github.io proxy",
   "main": "index.js",
   "scripts": {
+     "devDependencies": {
+  "expo-cli": "^6.3.0"
+}
+     
     "test": "echo \"Error: No test defined\" && exit 1"
   },
   "keywords": [],
